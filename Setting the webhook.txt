@@ -7,4 +7,4 @@ step 4:- past the below URL and make sure edit the URL with your telegram token 
 		https://api.telegram.org/bot{Telegram_token_number}/setwebhook
 step 5:- Click on the body and select the form-date to connect your API
 step 6:- Enter the key as url
-step 7:- Enter the value as URL link(after creation of API Gateway you will get a Invoke 		   URL past the URL in the value)
+step 7:- Enter the value as URL link(after creation of API Gateway you will get a Invoke URL past the URL in the value)
