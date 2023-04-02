@@ -1,0 +1,10 @@
+Setting the webhook
+
+step 1:- To set the webhook open the postman app
+step 2:- clik on the pluse simple to connect your telegram bot and API 
+step 3:- Select the method as POST 
+step 4:- past the below URL and make sure edit the URL with your telegram token number
+		https://api.telegram.org/bot{Telegram_token_number}/setwebhook
+step 5:- Click on the body and select the form-date to connect your API
+step 6:- Enter the key as url
+step 7:- Enter the value as URL link(after creation of API Gateway you will get a Invoke 		   URL past the URL in the value)
