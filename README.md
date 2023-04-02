@@ -3,6 +3,8 @@
 What is AWS Lambda?
 AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS) that allows developers to run code without provisioning or managing servers. With Lambda, developers can upload their code in the form of functions, and Lambda will automatically handle the rest, including scaling, patching, and monitoring.
 What is API Gateway?
+
+
 API Gateway is a managed service offered by AWS that allows developers to create, deploy, and manage APIs for their applications. It acts as a "front door" to backend services, providing a secure and scalable API layer for client applications. API Gateway supports a variety of API types and provides features such as caching, authentication, and rate limiting to manage API traffic and improve performance. It can also integrate with other AWS services, such as Lambda and IAM, to provide additional functionality. API Gateway is a powerful platform for building APIs that are scalable, secure, and easy to manage.
 The Architectural Workflow
 create a telegram bot that will be hosted on the server side now suppose any user if they are publishing a message in that particular bot using telegram OVO what will happen means the message will be pushed to our client system.
